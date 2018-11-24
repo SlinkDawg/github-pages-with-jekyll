@@ -1,3 +1,3 @@
-# Welcome to my hood. Let me show you my crib!
+# Welcome to my blog
 
-I'm **glad** _you_ are here. I plan to talk about **stuff** _and_ __things__
+I'm glad you are here. I plan to talk about ...
