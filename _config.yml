@@ -3,16 +3,16 @@ title:"First Blogpost"
 date:2018-11-24
 ---
 
-title: My Winning Site
-author: Charly Hemphill
-email: charly@domain.example.local
+title:My Winning Site
+author:Charly Hemphill
+email: harly@domain.example.local
 description: > # this means to ignore newlines until "baseurl:"
     This is a site description.
 
 # social links
-twitter_username: CharlyHemphill
-github_username:  SlinkDawg
+twitter_username:CharlyHemphill
+github_username: SlinkDawg
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme:minima
